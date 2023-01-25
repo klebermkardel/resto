@@ -163,6 +163,7 @@ header .icons #menu-bars {
 }
 
 .home .home-slider .slide  {
+    margin-left: 7rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
