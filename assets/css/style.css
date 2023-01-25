@@ -163,7 +163,6 @@ header .icons #menu-bars {
 }
 
 .home .home-slider .slide  {
-    margin-left: 7rem;
     display: flex;
     align-items: center;
     flex-wrap: wrap;
@@ -200,6 +199,9 @@ header .icons #menu-bars {
     line-height: 1.5;
 }
 
+.swiper-pagination-bullet-active {
+    background: var(--green);
+}
 
 
 
